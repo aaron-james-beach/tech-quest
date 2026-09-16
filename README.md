@@ -2,7 +2,7 @@
 
 A seven-stop setup scavenger hunt for 6th grade math students. Students complete it after submitting a quiz, in class or at home.
 
-**Live page:** https://YOUR-USERNAME.github.io/tech-quest/
+**Live page:** https://aaron-james-beach.github.io/tech-quest/
 
 ## What students do
 

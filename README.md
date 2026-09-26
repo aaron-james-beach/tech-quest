@@ -1,20 +1,11 @@
 # Tech Quest
 
-A seven-stop setup scavenger hunt for 6th grade math students. Students complete it after submitting a quiz, in class or at home.
+**Moved.** Tech Quest now lives at **https://beach-math.com/tech-quest/**.
 
-**Live page:** https://aaron-james-beach.github.io/tech-quest/
+Its source is `apps/tech-quest/index.html` in the
+[Mr-Beach/teacher-calendar](https://github.com/Mr-Beach/teacher-calendar)
+repo. Edit it there (pencil icon, then commit); the site updates within a
+minute or two.
 
-## What students do
-
-1. **Clever:** favorite Savvas Realize and MagicSchool, then set up both accounts.
-2. **Schoology:** open the calendar, explore a topic folder (Launch, Review, and a lesson folder), find the Interactive Student Edition, and play a Savvas game.
-
-Checkmarks save in each student's browser. Nothing is sent anywhere.
-
-## Files
-
-- `index.html`: the whole page, a single self-contained file
-
-## Editing
-
-Edit `index.html` directly on GitHub (pencil icon), then commit. The live page updates within a minute or two.
+`index.html` here is only a redirect, so old links to
+https://aaron-james-beach.github.io/tech-quest/ keep working.
